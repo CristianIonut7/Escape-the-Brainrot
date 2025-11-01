@@ -27,10 +27,9 @@ Your goal: **survive three challenging levels** filled with traps, puzzles, and 
 
 ## How to Play
 
-1. Clone or download the repository.  
-2. Open the project in **Godot Engine 4.x**.  
-3. Run the main scene (`Main.tscn`) or export for your platform of choice.  
-4. Move, jump, and dodge obstacles to reach the end of each level.  
+1. Go to "Releases -> v1.0.1".  
+2. Download the Escape_the_Brainrot.exe.  
+3. Enjoy.  
 
 ---
 
