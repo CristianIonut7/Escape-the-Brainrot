@@ -18,7 +18,7 @@ Your goal: **survive three challenging levels** filled with traps, puzzles, and 
 
 ## Built With
 
-- **Engine:** Godot 4.x  
+- **Engine:** Godot 4
 - **Language:** GDScript  
 - **Assets:** Custom sprites and tilesets (created during hackathon)  
 - **Team:** Pleseanu Cristian, Balalau Andrei, Lican Stefanita (developed in under 48 hours)
